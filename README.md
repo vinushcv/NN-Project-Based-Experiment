@@ -1,7 +1,7 @@
 # Project Based Experiments
 
-### DEVELOPED BY : SACHIN.C
-### REGISTER NO : 212222230125
+### DEVELOPED BY : VINUSH CV
+### REGISTER NO : 212222230176
 
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
